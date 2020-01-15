@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "timerbot"
+name = "reminderbot"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Shea Bunge <shea@sheabunge.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
